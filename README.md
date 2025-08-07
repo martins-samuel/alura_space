@@ -1,12 +1,12 @@
-# 🌟 P
-rojeto Educacional: Galeria de Estrelas
-
-<img width="1846" height="969" alt="Captura de tela 2025-08-05 204459" src="https://github.com/user-attachments/assets/73035de8-3e5c-43b2-88b2-2e9953ac3447" />
-<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/60dea1ef-0896-4d15-b788-e356e7c8c965" />
+# 🌟 Projeto Educacional: Galeria de Estrelas
 
 Este é um projeto desenvolvido com **Django** que tem como objetivo educar e informar sobre **estrelas** — seus tipos, classificações, curiosidades e muito mais!
 
 O site foi desenvolvido com foco em **boas práticas de desenvolvimento**, especialmente o princípio **Don't Repeat Yourself (DRY)**, garantindo um código limpo, modular e reutilizável.
+
+<img width="1846" height="969" alt="Captura de tela 2025-08-05 204459" src="https://github.com/user-attachments/assets/73035de8-3e5c-43b2-88b2-2e9953ac3447" />
+<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/60dea1ef-0896-4d15-b788-e356e7c8c965" />
+
 
 ---
 
