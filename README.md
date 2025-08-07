@@ -21,20 +21,36 @@ O site foi desenvolvido com foco em **boas práticas de desenvolvimento**, espec
 Abaixo está a estrutura do projeto conforme a organização dos arquivos:
 
 ├── .venv/ # Ambiente virtual
+
+
 ├── galeria/ # Aplicação principal com regras de negócio
+
 ├── setup/ # Configurações adicionais do projeto
+
 ├── static/ # Arquivos estáticos (CSS, JS, imagens)
+
 ├── templates/
+
 │ └── galeria/
+
 │ ├── partials/ # Arquivos HTML reutilizáveis
+
 │ │ ├── base.html
+
 │ │ ├── imagem.html
+
 │ │ └── index.html
+
 ├── .env # Variáveis de ambiente sensíveis
+
 ├── .gitignore # Arquivos/pastas ignorados pelo Git
+
 ├── db.sqlite3 # Banco de dados local
+
 ├── manage.py # Script de gerenciamento do Django
+
 └── requirements.txt # Dependências do projeto
+
 ## 🔒 Segurança com `.env`
 
 O arquivo `.env` é usado para armazenar **informações sensíveis**, como:
